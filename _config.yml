@@ -18,16 +18,15 @@
 lang:                  en
 
 # The title of your site. Used in the sidebar and the browser tab.
-title:                 Barbora Miklošová
+title:                 Erik Búš
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  Master’s student in astrophysics, exploring galaxies, data, and the questions
-  hiding in the night sky.
+  Phd candidate student in levitation and optomechanics
 
 # A shorter description for the sidebar.
-tagline:               "Astrophysics Master's student at the Department of Theoretical Physics and Astrophysics<br>Masaryk University · High Energy Astrophysics group"
+tagline:               "Phd candidate in levitation and optomechanics at the Department of Theoretical Physics and Astrophysics<br>Masaryk University"
 
 # A list of keywords for your blog
 keywords:              []
