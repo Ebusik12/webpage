@@ -7,6 +7,7 @@ permalink: /cv/
 
 
 ## Education
+- **PhD** - ...
 
 - **Master's (Mgr.) in Astrophysics** — Masaryk University, Faculty of Science,  
   Department of Theoretical Physics and Astrophysics, Brno, Czech Republic  
